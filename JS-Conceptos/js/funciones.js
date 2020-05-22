@@ -96,7 +96,7 @@ setTimeout(() => {
     alert('Hola a todos amiguiños')
 }, 2000);
 
-//SCOPE: ubicaion de las variables
+//SCOPE: ubicación de las variables
 {
 let profesor='Karol'
     {
